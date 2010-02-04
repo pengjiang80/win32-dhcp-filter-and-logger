@@ -1,0 +1,8 @@
+LIBRARY	"CalloutHook"
+EXPORTS  
+	DhcpServerCalloutEntry
+	DhcpControlHook
+	DhcpNewPktHook
+	DhcpAddressOfferHook
+	DhcpAddressDelHook  
+	DhcpDeleteClientHook 
