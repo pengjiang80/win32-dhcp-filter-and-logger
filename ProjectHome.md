@@ -1,0 +1,1 @@
+A dll filter client by MAC address and log IP Allocation to mysql DB. Works with Windows DHCP Server.
